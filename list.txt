@@ -1,0 +1,15 @@
+adm
+admin
+admin_
+admin_login
+admin_logon
+administrat
+administration
+administrator
+adminlogin
+adminlogon
+adminsql
+wp-login.php
+wp-admin.php
+wp-admin
+wp-login
